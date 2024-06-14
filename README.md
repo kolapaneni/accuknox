@@ -10,6 +10,10 @@ Inside project root directory, run following commands:
 
       pip install -r requirements.txt
 
+**Apply migrations:**
+
+      python manage.py migrate
+
 **For to start server:**
 
       python manage.py runserver
